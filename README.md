@@ -9,8 +9,8 @@ It is deliberately a **tool list, not a bootstrap script**: hosts have different
 | Area | Tools |
 | --- | --- |
 | Terminal | [Starship](https://starship.rs), [Kitty](https://sw.kovidgoyal.net/kitty/) |
-| AI & agents | [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Cursor](https://cursor.com), [OpenCode](https://opencode.ai), [Grok CLI](https://github.com/xai-org/grok-cli), [herdr](https://github.com/nickboucher/herdr), [ccusage](https://github.com/ryoppippi/ccusage) |
-| Development | [GitHub CLI](https://cli.github.com), [beads](https://github.com/steveyegge/beads), [CodexBar](https://github.com/nickboucher/CodexBar), [ruff](https://docs.astral.sh/ruff/), [uv](https://docs.astral.sh/uv/) |
+| AI & agents | [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Cursor](https://cursor.com), `agy`, [Codex CLI](https://developers.openai.com/codex/cli/), [OpenCode](https://opencode.ai), [Grok CLI](https://github.com/xai-org/grok-cli), [Ollama](https://ollama.com), [herdr](https://github.com/nickboucher/herdr), [ccusage](https://github.com/ryoppippi/ccusage) |
+| Development | [GitHub CLI](https://cli.github.com), [beads](https://github.com/steveyegge/beads), [CodexBar](https://github.com/nickboucher/CodexBar), `tang`, [ruff](https://docs.astral.sh/ruff/), [uv](https://docs.astral.sh/uv/) |
 
 The complete, versioned list—including command names and installation notes—is in [TOOLS.md](TOOLS.md).
 
