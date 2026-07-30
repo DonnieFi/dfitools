@@ -17,6 +17,8 @@ It is intentionally **not** an installer. Machines have different roles, package
 > **Looking for the complete list?** Open **[TOOLS.md](TOOLS.md)** for command names, observed versions, and install notes.
 >
 > **Want the terminal to feel right too?** See **[SETUP.md](SETUP.md)** for the Bash, Starship, Kitty, Nerd Font, and SSH setup.
+>
+> **Curious how the machines differ?** Browse **[CONFIG.md](CONFIG.md)** for their host-specific prompt and terminal profiles.
 
 ## On the shelf
 
@@ -41,7 +43,7 @@ When a new tool proves useful, or you refresh a machine:
 
 1. Check its installed version.
 2. Add it to [TOOLS.md](TOOLS.md), with its command, upstream link, and a note that will help Future You install it again.
-3. Update the README highlights if it belongs on the front page.
+3. Update [CONFIG.md](CONFIG.md) when it changes a host's working setup, or the README highlights when it belongs on the front page.
 4. Commit and push.
 
 ## Ground rules

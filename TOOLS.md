@@ -11,7 +11,7 @@ Last scanned from **deba** (Debian 13). CLIs only — no brew, node, npm, or Pyt
 | [Nerd Fonts](https://www.nerdfonts.com/) (`JetBrainsMono Nerd Font`, `FiraCode Nerd Font`) | — | Installed; supplies prompt glyphs. Kitty uses JetBrains Mono Nerd Font. |
 | [Catppuccin Mocha](https://github.com/catppuccin/kitty) | — | Current Kitty color theme |
 
-See [SETUP.md](SETUP.md) for the portable Bash, Starship, Kitty, font, and SSH setup.
+See [SETUP.md](SETUP.md) for the portable Bash, Starship, Kitty, font, and SSH setup; [CONFIG.md](CONFIG.md) records host-specific profiles.
 
 ## AI / agent CLIs
 
