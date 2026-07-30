@@ -58,12 +58,9 @@ error_symbol = "[❯](bold red)"
 
 ## Kitty and fonts
 
-Kitty uses Catppuccin Mocha, 92% background opacity, and a Nerd Font. A Nerd Font is important because Starship and many developer tools use glyphs outside an ordinary monospace font.
+Kitty uses Catppuccin Mocha, 92% background opacity, and **JetBrainsMono Nerd Font**. A Nerd Font is important because Starship and many developer tools use glyphs outside an ordinary monospace font. FiraCode Nerd Font is also installed as an alternative.
 
-The current Kitty configuration names `JetBrainsMono Nerd Font`, but that font is not installed on the source host. Kitty therefore falls back to plain Noto Sans. Fix that by choosing one path:
-
-1. Install **JetBrains Mono Nerd Font** and keep the existing setting.
-2. Or, use the installed **FiraCode Nerd Font**:
+To switch Kitty to FiraCode Nerd Font:
 
 ```conf
 # ~/.config/kitty/kitty.conf
