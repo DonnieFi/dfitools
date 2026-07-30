@@ -8,6 +8,10 @@ Last scanned from **deba** (Debian 13). CLIs only — no brew, node, npm, or Pyt
 |------|---------|---------------|
 | [starship](https://starship.rs) | 1.25.0 | `curl -sSf https://starship.rs/install.sh \| sh` |
 | [kitty](https://sw.kovidgoyal.net/kitty/) | 0.47.2 | Linux installer / distro package |
+| [Nerd Fonts](https://www.nerdfonts.com/) (`FiraCode Nerd Font`) | — | Installed; supplies prompt glyphs. Kitty is configured for JetBrains Mono Nerd Font—install it or switch the Kitty font setting. |
+| [Catppuccin Mocha](https://github.com/catppuccin/kitty) | — | Current Kitty color theme |
+
+See [SETUP.md](SETUP.md) for the portable Bash, Starship, Kitty, font, and SSH setup.
 
 ## AI / agent CLIs
 

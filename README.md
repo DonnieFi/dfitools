@@ -15,12 +15,14 @@
 It is intentionally **not** an installer. Machines have different roles, package managers, and security boundaries. This is the useful middle ground: a portable, versioned reference with upstream links and notes, ready to copy from wherever you are.
 
 > **Looking for the complete list?** Open **[TOOLS.md](TOOLS.md)** for command names, observed versions, and install notes.
+>
+> **Want the terminal to feel right too?** See **[SETUP.md](SETUP.md)** for the Bash, Starship, Kitty, Nerd Font, and SSH setup.
 
 ## On the shelf
 
 | | Category | A few highlights |
 | :-: | --- | --- |
-| `>_` | **Terminal** | [Starship](https://starship.rs) · [Kitty](https://sw.kovidgoyal.net/kitty/) |
+| `>_` | **Terminal** | [Starship](https://starship.rs) · [Kitty](https://sw.kovidgoyal.net/kitty/) · [Nerd Fonts](https://www.nerdfonts.com/) · Catppuccin Mocha |
 | `✦` | **AI & agents** | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) · [Codex CLI](https://developers.openai.com/codex/cli/) · [Cursor](https://cursor.com) · [OpenCode](https://opencode.ai) · [Ollama](https://ollama.com) · [Grok CLI](https://github.com/xai-org/grok-cli) · `agy` |
 | `⌘` | **Development** | [GitHub CLI](https://cli.github.com) · [beads](https://github.com/steveyegge/beads) · [CodexBar](https://github.com/nickboucher/CodexBar) · `tang` · [ruff](https://docs.astral.sh/ruff/) · [uv](https://docs.astral.sh/uv/) |
 
